@@ -6,7 +6,7 @@
 
 ## Course Code: 18CSC304J
 
-## Reg No : RA2311027050005
+## Reg No : RA2311027050030
 
 ## Semester: VI
 
